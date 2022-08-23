@@ -139,6 +139,10 @@ main {
 .parrafo{
   font-size: 25px;
 }
+.parrafo p > span{
+
+  font-weight: 800;
+}
 
 footer {
   width: 100%;
